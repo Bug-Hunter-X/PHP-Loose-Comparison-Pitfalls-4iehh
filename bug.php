@@ -1,0 +1,1 @@
+This code snippet demonstrates a common issue in PHP related to unexpected behavior when comparing strings using loose comparison operators. The comparison `'123' == 123` evaluates to `true`, which can be unexpected if strict comparison is needed.
