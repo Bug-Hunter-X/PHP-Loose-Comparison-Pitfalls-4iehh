@@ -1,0 +1,1 @@
+This repository showcases a common error in PHP programming involving loose comparisons.  The `bug.php` file contains code that demonstrates unexpected behavior due to loose comparison (`==`). The `bugSolution.php` file offers a corrected version using strict comparison (`===`).  Understanding this distinction is crucial for writing robust and reliable PHP applications.
